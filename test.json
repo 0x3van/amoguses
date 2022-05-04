@@ -1,0 +1,26 @@
+{
+    "content": "",
+    "embed": {
+        "title": "cjdoyle.cf :: homepage",
+        "description": "homepage lol",
+        "color": 10509236,
+        "timestamp": "2022-05-04T02:47:45.280Z",
+        "url": "https://discord.com",
+        "author": {
+            "name": "『CJ』#3681",
+            "url": "https://discord.com",
+            "icon_url": "https://unsplash.it/100"
+        },
+        "thumbnail": {
+            "url": "https://tempfile.site/files/vuu.png"
+        },
+        "image": {
+            "url": ""
+        },
+        "footer": {
+            "text": "cjdoyle.cf",
+            "icon_url": "https://unsplash.it/100"
+        },
+        "fields": []
+    }
+}
