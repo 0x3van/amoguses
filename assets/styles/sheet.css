@@ -20,6 +20,13 @@
   color: #f1034a;
   color: #270245;
 }
+.flexy {
+position: fixed;
+top: 50%;
+left: 500px;
+bottom: 50%;
+
+}
 *::selection {
   background: #fd5d8d;
   color: #f1034a;
@@ -147,7 +154,7 @@ body:before {
   visibility: hidden;
   text-align: center;
   top: 45%;
-  left: 44%;
+  left: 39%;
   position: absolute;
 }
 
