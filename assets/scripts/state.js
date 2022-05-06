@@ -36,7 +36,7 @@ function pad(val) {
 	  return valString;
 	}
   }
-
+  
 $('#start').click(function() {
     setTimeout(changeStateFlash, 5000);
     setTimeout(changeStateMain, 5300);
